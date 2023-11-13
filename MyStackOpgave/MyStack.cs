@@ -26,7 +26,7 @@ namespace MyStackOpgave
                
             }
         }
-        
+        // heheheheheheheheheh
         public int Pop(int element)
         {
             if (top < 0)
