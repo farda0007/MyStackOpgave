@@ -38,10 +38,7 @@ namespace MyStackOpgave
             return element;
         }
 
-        public override string ToString()
-        {
-            return $"{{hej med jer}}";
-        }
+       
     }
 
     // yoyoyoyo
