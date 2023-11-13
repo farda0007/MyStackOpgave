@@ -27,6 +27,7 @@ namespace MyStackOpgave
             }
         }
         // ehy
+        //asseater
         public int Pop(int element)
         {
             if (top < 0)
