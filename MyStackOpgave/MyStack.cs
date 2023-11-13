@@ -50,5 +50,5 @@ namespace MyStackOpgave
     
 }
 // ny text
-// Stop nu med at tilføje ting drenge >:(
+// Stop nu med at tilføje ting drenge >:(-
 
