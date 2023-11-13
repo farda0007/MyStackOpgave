@@ -26,10 +26,7 @@ namespace MyStackOpgave
                
             }
         }
-        //whiwjaro
-        // ehy
-        //asseater
-        //hashsah
+        
         public int Pop(int element)
         {
             if (top < 0)
