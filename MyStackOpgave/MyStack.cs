@@ -38,7 +38,13 @@ namespace MyStackOpgave
             return element;
         }
 
-       
+        public override string ToString()
+        {
+            return $"{{Den Nye String}}";
+        }
+
+        //Lavet ny ToString
+
     }
 
     // yoyoyoyo
