@@ -47,6 +47,9 @@ namespace MyStackOpgave
         }
     }
 
+
+
+
     
 } // Made you look hehehoho
 
