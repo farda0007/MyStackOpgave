@@ -51,5 +51,6 @@ namespace MyStackOpgave
 
 
     
-} // Made you look hehehoho
+}
+// Stop nu med at tilføje ting drenge >:(
 
