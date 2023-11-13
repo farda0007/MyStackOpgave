@@ -41,6 +41,7 @@ namespace MyStackOpgave
         public override string ToString()
         {
             return $"{{Hej med jer, jeg skriver lige her, og efter det her kommer lucas' to string :)}}";
+            return $"{{Den her er forkert thomas jeg hader dig for at lave den forkert...}}";
         }
 
         //Lavet ny ToString
@@ -49,7 +50,7 @@ namespace MyStackOpgave
 
     // yoyoyoyo
 
-
+    //DDHDSA
     
 }
 // ny text
