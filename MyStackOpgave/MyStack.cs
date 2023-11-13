@@ -28,6 +28,7 @@ namespace MyStackOpgave
         }
         //whiwjaro
         // ehy
+        //asseater
         public int Pop(int element)
         {
             if (top < 0)
