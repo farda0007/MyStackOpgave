@@ -48,5 +48,6 @@ namespace MyStackOpgave
     }
 
     
-} // Stop nu med at tilføje ting drenge >:(
+}
+// Stop nu med at tilføje ting drenge >:(
 
