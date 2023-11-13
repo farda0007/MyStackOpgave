@@ -26,10 +26,8 @@ namespace MyStackOpgave
                
             }
         }
-        // ehy 
-
-        // kan i set dette? 
-
+        // ehy
+        //asseater
         public int Pop(int element)
         {
             if (top < 0)
