@@ -39,6 +39,13 @@ namespace MyStackOpgave
                 top--; Pop(element);
             return element;
         }
+
+        public override string ToString()
+        {
+            return $"{{hej med jer}}";
+        }
     }
+
+    
 }
 
