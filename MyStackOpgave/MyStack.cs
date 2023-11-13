@@ -48,5 +48,5 @@ namespace MyStackOpgave
     }
 
     
-}
+} // Stop nu med at tilføje ting drenge >:(
 
