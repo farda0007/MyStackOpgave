@@ -40,7 +40,7 @@ namespace MyStackOpgave
 
         public override string ToString()
         {
-            return $"{{Den Nye String}}";
+            return $"{{Den her er forkert thomas jeg hader dig for at lave den forkert...}}";
         }
 
         //Lavet ny ToString
