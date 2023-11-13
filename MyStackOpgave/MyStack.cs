@@ -26,7 +26,7 @@ namespace MyStackOpgave
                
             }
         }
-        
+        // heheheheheheheheheh
         public int Pop(int element)
         {
             if (top < 0)
@@ -40,8 +40,11 @@ namespace MyStackOpgave
 
         public override string ToString()
         {
-            return $"{{hej med jer}}";
+            return $"{{Den Nye String}}";
         }
+
+        //Lavet ny ToString
+
     }
 
     // yoyoyoyo
@@ -50,5 +53,5 @@ namespace MyStackOpgave
     
 }
 // ny text
-// Stop nu med at tilføje ting drenge >:(
+// Stop nu med at tilføje ting drenge >:(-
 
