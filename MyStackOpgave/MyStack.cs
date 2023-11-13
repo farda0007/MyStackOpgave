@@ -26,6 +26,7 @@ namespace MyStackOpgave
                
             }
         }
+        //whiwjaro
         // ehy
         public int Pop(int element)
         {
