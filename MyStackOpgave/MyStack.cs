@@ -13,29 +13,7 @@ namespace MyStackOpgave
         private int top = 0;
         private int[] stack = new int[5];
 
-        public void Push(int element)
-        {
-            if (top > 5)
-            {
-                Console.WriteLine("Stack overflow");
-            }
-            else
-            {
-                Push(element);
-                top++; 
-               
-            }
-        }
-        
-        public int Pop(int element)
-        {
-            if (top < 0)
-            {
-                Console.WriteLine("Stack is empty");
-            }
-            else
-                top--; Pop(element);
-            return element;
+      
         }
 
         public override string ToString()
